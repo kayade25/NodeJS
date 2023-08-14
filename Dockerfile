@@ -1,4 +1,4 @@
-# Use an official Node.js Alpine runtime as the base image
+
 FROM node:16.20.1-alpine
 
 # Set the working directory inside the container
